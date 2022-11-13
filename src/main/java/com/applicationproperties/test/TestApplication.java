@@ -19,10 +19,9 @@ public class TestApplication {
 		//Integer k = i.stream().min((a,b)->a.compareTo(b)).get();
 		//System.out.println(k);
 
-		System.out.println("Enter the String");
-		Scanner scanner = new Scanner(System.in);
-
-			System.out.println(" String is" + scanner);
+		//System.out.println("Enter the String");
+		//Scanner scanner = new Scanner(System.in);
+		//System.out.println(" String is" + scanner);
 
 
 
